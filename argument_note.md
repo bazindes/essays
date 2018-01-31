@@ -42,4 +42,11 @@ The author assumes that there are no relevant differences between A and B, and t
 
 To sum up/ all in all/ in conclusion, unless the author can furnish with further illustrations to address above all problems, the whole argument can merely remain less cogent.
 
+调查错误:
+1.The author cites a survey showing / indicating that ...
+2.However, there is no firm evidence that the respondents are representative.
+3.it is highly possible that few people ... answered the survey.
+Perhaps ...
+4.In short, without more evidence that the survey is statistically reliable, the author can not draw the conclusions that ....
+
 
